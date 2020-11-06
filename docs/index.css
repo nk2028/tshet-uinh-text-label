@@ -2,6 +2,10 @@
 	font-family: CharisSILW, serif, serif;
 }
 
+::selection {
+	background-color: #ffe150;
+}
+
 select {
 	background-color: #fff;
 	border: 1px solid #ccc;
@@ -32,6 +36,7 @@ rt {
 .read-aloud {
 	background-color: transparent;
 	border: none;
+	cursor: pointer;
 }
 
 body.no-unt .read-aloud {
