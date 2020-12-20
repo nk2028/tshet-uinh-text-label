@@ -2,10 +2,12 @@
 
 《切韻》音系文本標註
 
-See <https://nk2028.shn.hk/qieyun-text-label/>.
+## 使用方法
 
-Build:
-
-```sh
-pandoc -s index.md -o docs/index.html --toc
 ```
+https://cdn.jsdelivr.net/gh/nk2028/qieyun-text-label@<commit-sha>/index.html
+```
+
+## 查看
+
+見[《切韻》音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)。
