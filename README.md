@@ -1,13 +1,13 @@
 # qieyun-text-label
 
-《切韻》音系文本標註
+A database of Chinese texts labelled with their pronunciations in the Qieyun phonological system.
 
-## 使用方法
+## Usage
 
 ```
 https://cdn.jsdelivr.net/gh/nk2028/qieyun-text-label@<commit-sha>/index.html
 ```
 
-## 查看
+## View the data
 
-見[《切韻》音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)。
+Open the [《切韻》音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/), then select 為預設文章注音 (add pronunciation to the default articles).
