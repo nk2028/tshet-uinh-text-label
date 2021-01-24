@@ -1,6 +1,6 @@
 # qieyun-text-label
 
-A database of Chinese texts labelled with their pronunciations in the Qieyun phonological system.
+A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system 
 
 ## Usage
 
