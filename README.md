@@ -1,4 +1,4 @@
-# qieyun-text-label ![](https://github.com/nk2028/qieyun-text-label/workflows/Check/badge.svg)](https://github.com/nk2028/qieyun-text-label/actions?query=workflow%3ACheck)
+# qieyun-text-label [![](https://github.com/nk2028/qieyun-text-label/workflows/Check/badge.svg)](https://github.com/nk2028/qieyun-text-label/actions?query=workflow%3ACheck)
 
 A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system 
 
