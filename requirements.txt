@@ -1,1 +1,1 @@
-qieyun-python==0.13.1
+qieyun==0.13.1
