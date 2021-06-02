@@ -1,11 +1,11 @@
-# qieyun-text-label [![](https://github.com/nk2028/qieyun-text-label/workflows/Check/badge.svg)](https://github.com/nk2028/qieyun-text-label/actions?query=workflow%3ACheck)
+# qieyun-text-label
 
 A corpus of Chinese texts labelled with their phonological position of the Qieyun phonological system 
 
 ## Usage
 
 ```
-https://cdn.jsdelivr.net/gh/nk2028/qieyun-text-label@<commit-sha>/index.html
+https://cdn.jsdelivr.net/gh/nk2028/qieyun-text-label@<commit-sha>/index.txt
 ```
 
 ## View the data
