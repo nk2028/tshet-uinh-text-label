@@ -1,0 +1,7 @@
+{
+	"private": true,
+	"type": "module",
+	"devDependencies": {
+		"qieyun": "syimyuzya/qieyun-js#dist-dev"
+	}
+}
