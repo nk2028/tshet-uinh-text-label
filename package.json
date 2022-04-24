@@ -2,6 +2,6 @@
 	"private": true,
 	"type": "module",
 	"devDependencies": {
-		"qieyun": "syimyuzya/qieyun-js#dist-dev"
+		"qieyun": "^0.13.0"
 	}
 }

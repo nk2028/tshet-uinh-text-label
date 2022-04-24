@@ -18,6 +18,6 @@ jobs:
       with:
         node-version: '14'
     - name: Install dependencies
-      run: npm i
+      run: npm ci
     - name: Check
       run: node check.js
