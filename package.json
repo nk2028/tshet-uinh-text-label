@@ -1,7 +1,10 @@
 {
 	"private": true,
 	"type": "module",
+	"scripts": {
+		"test": "node check.js"
+	},
 	"devDependencies": {
-		"qieyun": "^0.13.0"
+		"qieyun": "^0.15.0-beta.1"
 	}
 }
