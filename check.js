@@ -2,7 +2,7 @@
 
 import fs from 'fs';
 
-import { 音韻地位 } from 'qieyun';
+import { 音韻地位 } from 'tshet-uinh';
 
 const hanPattern =
   /[\u3006\u3007\u4e00-\u9fff\u3400-\u4dbf\u{20000}-\u{2a6df}\u{2a700}-\u{2b73f}\u{2b740}-\u{2b81f}\u{2b820}-\u{2ceaf}\u{2ceb0}-\u{2ebef}\u{30000}-\u{3134f}]/u;
